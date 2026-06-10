@@ -3,9 +3,9 @@
 MDM @ FCTUC | 2026
 
 # Team
-Nuno Flórido
-João Castanheira
-Carolina Cardoso
+- Nuno Flórido
+- João Castanheira
+- Carolina Cardoso
 
 # How to build it and play it yourself?
 1. Build the circuit (the schematics and images of the circuit in the TinkerCad are in this repository)
